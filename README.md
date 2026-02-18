@@ -1,13 +1,13 @@
-# Técnico en Programación de Software 👩🏻‍💻
+# Técnico en Programación de Software 
 
-## 📌 Información
+ Información
 Estudiante: Karol Acosta  
 Programa: Técnico en Programación de Software  
 
-## 📚 Contenido
+Contenido
 - Ejercicios de lógica
 - Proyectos en Visual Basic
 - Desarrollo web (HTML, CSS y JS)
 
-## 🎯 Objetivo
+Objetivo
 Documentar mi proceso de aprendizaje y fortalecer mis habilidades en programación.
