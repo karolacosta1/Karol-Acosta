@@ -6,7 +6,7 @@ Programa: Técnico en Programación de Software
 
 Contenido
 - Ejercicios de lógica
-- Proyectos en Visual Basic
+- Proyectos en Visual Studio Code
 - Desarrollo web (HTML, CSS y JS)
 
 Objetivo
